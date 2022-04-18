@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmadFadjar
 - 👀 I’m interested in to be Progammer
-- 🌱 I’m currently learning basic of HTML and CSS right now
+- 🌱 I’m currently learning basic of OOP PHP
 - 💞️ I’m looking to collaborate on big projects 
 - 📫 How to reach me my instagram @ahmdfadjar
 
