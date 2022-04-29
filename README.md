@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Anyone**
 
-- 📫 How to reach me **djarslayer@gmail.com**
+- 📫 How to reach me **slayernafas@gmail.com**
 
 - ⚡ Fun fact **I loved photography**
 
