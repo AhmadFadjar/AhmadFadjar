@@ -11,7 +11,10 @@
 
 - 👯 I’m looking to collaborate on **Big Project**
 
-- 🤝 I’m looking for help with **Anyone**
+- 🤝 I am also part of an **organization**, that is :
+- [BEM STTNF](https://www.instagram.com/bemsttnf/) as IPTEK Staff
+- [Mudeng STTNF](https://www.instagram.com/mudengsttnf/) as Core Team Photography
+- [LPPM STTNF](https://www.instagram.com/lppmnf/) as Volunteer
 
 - 📫 How to reach me **slayernafas@gmail.com**
 
