@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmad Fadjar</h1>
 <h3 align="center">A passionate fullstack from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadfadjar&label=Profile%20views&color=0e75b6&style=flat&theme=algolia" alt="ahmadfadjar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmadfadjar&label=Profile%20views&color=0e75b6&style=flat&theme=algolia" alt="ahmadfadjar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadfadjar&theme=algolia" alt="ahmadfadjar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadfadjar&theme=algolia" alt="ahmadfadjar" /></a> </p>
 
 - 🔭 I’m currently study on [STT Terpadu Nurul Fikri](https://www.bing.com/ck/a?!&&p=0e09b336f421a5a6d345d2c17933a6f249d18e603839273822fa12309d936cc1JmltdHM9MTY1MTI2ODI0MSZpZ3VpZD0wMzZiMWE2NC01OThkLTQ0NTEtYmY1OS1lMWIzNWZkNzRmNmQmaW5zaWQ9NTE0OA&ptn=3&fclid=8c8ed120-c804-11ec-88a6-b4ba4ea32fa4&u=a1aHR0cHM6Ly9udXJ1bGZpa3JpLmFjLmlkLz9tc2Nsa2lkPThjOGVkMTIwYzgwNDExZWM4OGE2YjRiYTRlYTMyZmE0&ntb=1)
 
@@ -25,6 +25,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadfadjar&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ahmadfadjar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadfadjar&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ahmadfadjar" /></p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadFadjar&theme=algolia)
