@@ -6,5 +6,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ahmdfadjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmdfadjar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ahmad fadjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmad fadjar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ahmad fadjar" target="blank"><img align="center" src="https://www.youtube.com/channel/UCeEFLyh504gxNiurwGvpzBw" alt="ahmad fadjar" height="30" width="40" /></a>
 </p>
