@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmad Fadjar</h1>
 <h3 align="center">A passionate fullstack from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadfadjar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadfadjar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadfadjar&label=Profile%20views&color=0e75b6&style=flat&theme=algolia" alt="ahmadfadjar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadfadjar" alt="ahmadfadjar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=ahmadfadjar" alt="ahmadfadjar" /></a> </p>
 
 - 🔭 I’m currently study on [STT Terpadu Nurul Fikri](https://www.bing.com/ck/a?!&&p=0e09b336f421a5a6d345d2c17933a6f249d18e603839273822fa12309d936cc1JmltdHM9MTY1MTI2ODI0MSZpZ3VpZD0wMzZiMWE2NC01OThkLTQ0NTEtYmY1OS1lMWIzNWZkNzRmNmQmaW5zaWQ9NTE0OA&ptn=3&fclid=8c8ed120-c804-11ec-88a6-b4ba4ea32fa4&u=a1aHR0cHM6Ly9udXJ1bGZpa3JpLmFjLmlkLz9tc2Nsa2lkPThjOGVkMTIwYzgwNDExZWM4OGE2YjRiYTRlYTMyZmE0&ntb=1)
 
