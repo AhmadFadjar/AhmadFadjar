@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on big projects 
 - 📫 How to reach me my instagram @ahmdfadjar
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadFadjar&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadFadjar&theme=algolia)
 
 <!---
 AhmadFadjar/AhmadFadjar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
