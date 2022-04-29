@@ -5,20 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadfadjar&theme=algolia" alt="ahmadfadjar" /></a> </p>
 
-- 🔭 I’m currently study on [STT Terpadu Nurul Fikri](https://www.bing.com/ck/a?!&&p=0e09b336f421a5a6d345d2c17933a6f249d18e603839273822fa12309d936cc1JmltdHM9MTY1MTI2ODI0MSZpZ3VpZD0wMzZiMWE2NC01OThkLTQ0NTEtYmY1OS1lMWIzNWZkNzRmNmQmaW5zaWQ9NTE0OA&ptn=3&fclid=8c8ed120-c804-11ec-88a6-b4ba4ea32fa4&u=a1aHR0cHM6Ly9udXJ1bGZpa3JpLmFjLmlkLz9tc2Nsa2lkPThjOGVkMTIwYzgwNDExZWM4OGE2YjRiYTRlYTMyZmE0&ntb=1)
+🔭 I’m currently study on [STT Terpadu Nurul Fikri](https://www.bing.com/ck/a?!&&p=0e09b336f421a5a6d345d2c17933a6f249d18e603839273822fa12309d936cc1JmltdHM9MTY1MTI2ODI0MSZpZ3VpZD0wMzZiMWE2NC01OThkLTQ0NTEtYmY1OS1lMWIzNWZkNzRmNmQmaW5zaWQ9NTE0OA&ptn=3&fclid=8c8ed120-c804-11ec-88a6-b4ba4ea32fa4&u=a1aHR0cHM6Ly9udXJ1bGZpa3JpLmFjLmlkLz9tc2Nsa2lkPThjOGVkMTIwYzgwNDExZWM4OGE2YjRiYTRlYTMyZmE0&ntb=1)
 
-- 🌱 I’m currently learning **CodeIgniter and PHP**
+🌱 I’m currently learning **CodeIgniter and PHP**
 
-- 👯 I’m looking to collaborate on **Big Project**
+👯 I’m looking to collaborate on **Big Project**
 
-- 🤝 I am also part of an **organization**, that is :
+🤝 I am also part of an **organization**, that is :
 - [BEM STTNF](https://www.instagram.com/bemsttnf/) as IPTEK Staff
 - [Mudeng STTNF](https://www.instagram.com/mudengsttnf/) as Core Team Photography
 - [LPPM STTNF](https://www.instagram.com/lppmnf/) as Volunteer
 
-- 📫 How to reach me **slayernafas@gmail.com**
+📫 How to reach me **slayernafas@gmail.com**
 
-- ⚡ Fun fact **I loved photography**
+⚡ Fun fact **I loved photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
