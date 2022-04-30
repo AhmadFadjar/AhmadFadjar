@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/ahmad-fadjar-1152aa226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-fadjar-1152aa226" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18752060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18752060" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmdfadjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmdfadjar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uceeflyh504gxniurwgvpzbw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceeflyh504gxniurwgvpzbw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCeEFLyh504gxNiurwGvpzBw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceeflyh504gxniurwgvpzbw" height="30" width="40" /></a>
 <a href="https://discord.gg/Jrz#9345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jrz#9345" height="30" width="40" /></a>
 </p>
 
