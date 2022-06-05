@@ -15,6 +15,7 @@
 - [BEM STTNF](https://www.instagram.com/bemsttnf/) as IPTEK Staff
 - [Mudeng STTNF](https://www.instagram.com/mudengsttnf/) as Core Team Photography
 - [LPPM STTNF](https://www.instagram.com/lppmnf/) as Volunteer
+- [TI05](https://www.instagram.com/2ti05/) as Class Leader
 
 📫 How to reach me **slayernafas@gmail.com**
 
